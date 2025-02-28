@@ -5,7 +5,7 @@
 
 ## 📋 About
 
-Welcome to LynxHawk's project portfolio! This collection showcases various web applications, tools, and experimental projects I've developed. Each project focuses on user experience and innovation, providing convenient and efficient solutions.
+Welcome to LynxHawk's project portfolio! This collection showcases various web applications, tools, and experimental projects I've developed.
 
 > "Code is the game."
 
@@ -15,12 +15,6 @@ Welcome to LynxHawk's project portfolio! This collection showcases various web a
 
 A modern web music player with a clean, beautiful interface and rich features.
 
-- **Core Features**:
-  - 🎵 Support for multiple audio formats
-  - 🎨 Custom themes and visual effects
-  - 📱 Responsive design for all devices
-  - 🔄 Playlist synchronization
-
 [📎 Live Demo](https://www.lynxhawk.com/Lynx_Player/) | [💻 Source Code](https://github.com/lynxhawk/Lynx_Player)
 
 ---
@@ -28,12 +22,6 @@ A modern web music player with a clean, beautiful interface and rich features.
 ### RandomEat
 
 A WeChat Mini Program that helps you decide what to eat randomly when you can't make up your mind.
-
-- **Core Features**:
-  - 🎲 Random food suggestion
-  - 🍲 Customizable food categories
-  - 📍 Location-based recommendations
-  - 🔄 Swipe to refresh options
 
 [💻 Source Code](https://github.com/lynxhawk/RandomEat)
 
@@ -47,12 +35,6 @@ A WeChat Mini Program that helps you decide what to eat randomly when you can't 
 
 A web application that retrieves book information by scanning ISBN codes.
 
-- **Core Features**:
-  - 📚 ISBN code scanning
-  - 📖 Comprehensive book details
-  - 🔍 Search functionality
-  - 📱 Mobile-friendly interface
-
 [💻 Frontend Code](https://github.com/lynxhawk/Dantalian) | [💻 Backend Code](https://github.com/lynxhawk/Dantalian-Express)
 
 ---
@@ -60,12 +42,6 @@ A web application that retrieves book information by scanning ISBN codes.
 ### GameSouls
 
 A gaming information and community platform for gamers to exchange ideas and information.
-
-- **Core Features**:
-  - 🎮 Game reviews and ratings
-  - 💬 Community discussion
-  - 🔔 Game release notifications
-  - 👥 User profiles and preferences
 
 [💻 Source Code](https://github.com/lynxhawk/GameSouls)
 
@@ -75,12 +51,6 @@ A gaming information and community platform for gamers to exchange ideas and inf
 
 A web-based version of the popular 2048 puzzle game with MySQL backend for score tracking.
 
-- **Core Features**:
-  - 🎮 Classic 2048 gameplay
-  - 🏆 Score tracking and leaderboards
-  - 📱 Mobile touch support
-  - 🔄 Game state saving
-
 [💻 Source Code](https://github.com/lynxhawk/mysql-express-2048)
 
 ---
@@ -88,12 +58,6 @@ A web-based version of the popular 2048 puzzle game with MySQL backend for score
 ### Fish Multi-Object Tracking Algorithm
 
 Research on multi-object tracking algorithms for fish based on computer vision, including video and image processing code.
-
-- **Core Features**:
-  - 🐟 Real-time fish tracking
-  - 📊 Motion analysis and statistics
-  - 🎥 Video processing capabilities
-  - 🧠 Computer vision algorithms
 
 ## 💻 Technology Stack
 
@@ -110,24 +74,6 @@ Research on multi-object tracking algorithms for fish based on computer vision, 
 | Mini Programs | 1 | ✅ Released |
 | Research Projects | 1 | 🔬 Ongoing |
 | Game Development | 1 | ✅ Released |
-
-## 📝 Development Log
-
-### Latest Updates
-
-- **2024**: Improved mobile responsiveness for Lynx Player
-- **2023**: Added new features to GameSouls community platform
-- **2023**: Enhanced fish tracking algorithm performance
-- **2022**: Released RandomEat Mini Program
-
-## 📮 Contact Information
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lynxhawk)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://lynxhawk.com)
-
-</div>
 
 ## 📄 License
 
