@@ -66,19 +66,6 @@ Research on multi-object tracking algorithms for fish based on computer vision, 
 - **Tools & Libraries**: Webpack, Babel, Git, Linux, MarkDown
 - **Other**: Python, Computer Vision, Unity, WeChat Mini Program, C, C++
 
-## 📊 Project Statistics
-
-| Project Type | Count | Status |
-|---------|-----|------|
-| Web Applications | 4 | ✅ Active |
-| Mini Programs | 1 | ✅ Released |
-| Research Projects | 1 | 🔬 Ongoing |
-| Game Development | 1 | ✅ Released |
-
-## 📄 License
-
-Projects are generally under the MIT License unless otherwise specified.
-
 ---
 
 <div align="center">
