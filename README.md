@@ -14,7 +14,7 @@ Welcome to LynxHawk's project portfolio! This collection showcases various web a
 | Project | Description | Links |
 |-------------|------------------|----------|
 | 🎵**Lynx_Player** | Web music player with clean interface | [Demo](https://www.lynxhawk.com/Lynx_Player/) \| [Code](https://github.com/lynxhawk/Lynx_Player) |
-| 🍽️**RandomEat** | WeChat Mini Program for food decisions | [Code](https://github.com/lynxhawk/RandomEat) \| [<img src="https://github.com/user-attachments/assets/2da1e48a-f431-4d35-baf3-4975b5cc3e74" width="60" height="60" alt="QR">](https://github.com/lynxhawk/RandomEat) |
+| 🍽️**RandomEat** | WeChat Mini Program for food decisions | [Code](https://github.com/lynxhawk/RandomEat) \| [QRCode](https://github.com/lynxhawk/RandomEat) |
 | 📚**Dantalian** | Book info system using ISBN scanning | [Frontend](https://github.com/lynxhawk/Dantalian) \| [Backend](https://github.com/lynxhawk/Dantalian-Express) |
 | 🎮**GameSouls** | Gaming community platform | [Code](https://github.com/lynxhawk/GameSouls) |
 | 🧩**Web 2048** | Browser-based 2048 puzzle game | [Code](https://github.com/lynxhawk/mysql-express-2048) |
