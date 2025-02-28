@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/455d989d-7243-4913-b20e-6c8cc92e94cc" width="50" height="50" alt="Lynx"> LynxHawk Portfolio
+# <img src="https://github.com/user-attachments/assets/19fa7e13-a6c1-4e06-9b05-ccee284ff91e" width="120" height="90" alt="Lynx"> LynxHawk Portfolio
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lynxhawk)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://lynxhawk.com)
@@ -63,7 +63,7 @@ Research on multi-object tracking algorithms for fish based on computer vision, 
 
 - **Frontend**: JavaScript, TypeScript, Vue.js, HTML5, CSS3, SASS, C#
 - **Backend**: Node.js, Express, MySQL, SpringBoot
-- **Tools & Libraries**: Webpack, Babel, Git, Linux
+- **Tools & Libraries**: Webpack, Babel, Git, Linux, MarkDown
 - **Other**: Python, Computer Vision, Unity, WeChat Mini Program, C, C++
 
 ## 📊 Project Statistics
